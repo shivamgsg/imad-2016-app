@@ -38,7 +38,7 @@ var content=data.content;
  
 
 
-var htmltemp =`<html>
+var htmlTemplate =`<html>
     <head>
         
         <title>
