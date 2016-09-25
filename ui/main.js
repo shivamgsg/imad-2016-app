@@ -4,5 +4,5 @@ ele.innerHTML='New'
 var img = document.getElementById('img');
 img.onclick = function()
 {
-    img.style.marginright='200px'
+    img.style.marginright='200px';
 }
