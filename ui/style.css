@@ -18,5 +18,11 @@ body {
 
 .img-medium {
     height: 200px;
-}
 
+}
+.one{
+            max-width: 800px;
+            margin: 0 auto;
+            color:grey;
+            font-family:sand-serif;
+        } 
