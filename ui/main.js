@@ -1,6 +1,6 @@
 console.log('Loaded!');
 var ele = document.getElementById('1')
-ele.innerHTML='New'
+ele.innerHTML='Pic pe click kar'
 var img1 = document.getElementById('img1');
 var marginRight=0;
 function moveLeft()
